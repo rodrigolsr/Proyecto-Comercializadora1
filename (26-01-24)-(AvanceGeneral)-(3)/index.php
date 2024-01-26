@@ -67,25 +67,24 @@
   <div class="w3-container">
       <h2><b>Filtrar Productos</b></h2>
 
-      <!-- Formulario con estilos similares al input de búsqueda -->
-      <form id="filtrar" action="filtrado.php" method="post">
-        <label for="filtro-atributo">Filtrar por Atributo:</label>
-        <select name="atributo" id="filtro-atributo">
-            <option value="id">id</option>
-            <option value="nombre">Nombre</option>
-            <option value="descripcion">Descripción</option>
-            <option value="cantidad">Cantidad</option>
-            <option value="precio">Precio</option>
-            <!-- Agrega más opciones según los atributos que desees permitir filtrar -->
-        </select>
-    
-      <label for="filtro-valor">Valor:</label>
-      <input type="text" name="valor" id="filtro-valor" required>
-
-        <!-- Input con estilo en línea para el color de fondo -->
-        <input type="submit" style="background-color: #2ecc71; color: white; padding: 10px; border: none; cursor: pointer;">
+  <!-- Formulario con estilos similares al input de búsqueda -->
+      <form id="filtrar" action="filtrado.php" method="post" style="display: flex; gap: 10px; align-items: center;">
+          <label for="filtro-atributo" style="margin-right: 5px;">Filtrar por Atributo:</label>
+          <select name="atributo" id="filtro-atributo" style="margin-right: 10px;">
+              <option value="id">id</option>
+              <option value="nombre">Nombre</option>
+              <option value="descripcion">Descripción</option>
+              <option value="cantidad">Cantidad</option>
+              <option value="precio">Precio</option>
+              <!-- Agrega más opciones según los atributos que desees permitir filtrar -->
+          </select>
+  
+          <label for="filtro-valor" style="margin-right: 5px;">Valor:</label>
+          <input type="text" name="valor" id="filtro-valor" required style="margin-right: 10px;">
+  
+          <!-- Input con estilo en línea para el color de fondo -->
+          <input type="submit" style="background-color: #2ecc71; color: white; padding: 10px; border: none; cursor: pointer;">
           <i class="fa fa-search" style="margin-right: 5px;"></i>
-
       </form>
     <!-- Div para los resultados del filtrado -->
     
