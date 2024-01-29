@@ -1,0 +1,234 @@
+
+        body,h1,h2,h3,h4,h5,h6 {
+        
+        font-family: "Raleway", sans-serif}
+        .w3-sidebar a, .w3-main a, .w3-bar-item {
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-sidebar {
+        background-color: #1e8449; /* Strong Green */
+        }
+
+        .w3-sidebar a:hover {
+        background-color: #f2f2f2; /* Light Gray */
+        }
+
+        .w3-main {
+        background-color: #f2f2f2; /* Light Gray */
+        }
+
+        .w3-dark-grey {
+        background-color: #2c3e50; /* Dark Grey */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-table th {
+        background-color: #128f46; /* Emerald */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-bar a.w3-black {
+        background-color: #28b463; /* Emerald */
+        color: #ffffff; /* White */
+        }
+
+        .w3-bar a.w3-hover-black:hover {
+        background-color: #145a32; /* Strong Green */
+        color: #ffffff; /* White */
+        }
+
+        .w3-bar a.w3-button {
+        background-color: #f2f2f2; /* Light Gray */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-bar a.w3-button:hover {
+        background-color: #145a32; /* Strong Green */
+        color: #ffffff; /* White */
+        }
+
+        .w3-pagination a {
+        background-color: #c8e6c9; /* Light Green */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-pagination a.w3-hover-black:hover {
+        background-color: #145a32; /* Strong Green */
+        color: #ffffff; /* White */
+        }
+
+        .w3-container h4, .w3-container h2 {
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-button {
+        background-color: #c8e6c9; /* Light Green */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-button:hover {
+        background-color: #145a32; /* Strong Green */
+        color: #ffffff; /* White */
+        }
+
+        .w3-container .w3-grey {
+        background-color: #f2f2f2; /* Light Gray */
+        }
+
+        .w3-container .w3-dark-grey {
+        background-color: #2c3e50; /* Dark Grey */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-light-grey {
+        background-color: #ecf0f1; /* Light Grey */
+        }
+
+        .w3-container .w3-padding-large {
+        background-color: #f2f2f2; /* Light Gray */
+        }
+
+        .w3-container .w3-padding-large h4 {
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-padding-large p {
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-padding-large .w3-dark-grey {
+        background-color: #2c3e50; /* Dark Grey */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-padding-large .w3-tag {
+        background-color: #28b463; /* Emerald */
+        color: #ffffff; /* White */
+        }
+
+        .w3-container .w3-padding-large .w3-light-grey {
+        background-color: #ecf0f1; /* Light Grey */
+        }
+
+        /* Header */
+        .w3-container .w3-padding-64 h1 {
+        color: #145a32; /* Strong Green */
+        }
+
+        /* Technical Skills */
+        .w3-container .w3-light-grey .w3-padding-64 .w3-col p {
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-light-grey .w3-padding-64 .w3-col .w3-container .w3-light-grey .w3-center .w3-light-grey .w3-col .w3-text-white .w3-dark-grey {
+        background-color: #2c3e50; /* Dark Grey */
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-light-grey .w3-padding-64 .w3-col .w3-center .w3-light-grey .w3-col .w3-center {
+        background-color: #ecf0f1; /* Light Grey */
+        }
+
+        /* How Much I Charge */
+        .w3-container .w3-padding-64 .w3-container h2 {
+        color: #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-padding-64 .w3-container p {
+        color: #145a32; /* Strong Green */
+        }
+
+        /* Contact */
+        .w3-container .w3-padding-64 .w3-container .w3-section input, .w3-container .w3-padding-64 .w3-container .w3-section select, .w3-container .w3-padding-64 .w3-container .w3-section textarea {
+        border: 1px solid #145a32; /* Strong Green */
+        }
+
+        .w3-container .w3-padding-64 .w3-container .w3-section input:focus, .w3-container .w3-padding-64 .w3-container .w3-section select:focus, .w3-container .w3-padding-64 .w3-container .w3-section textarea:focus {
+        border: 1px solid #28b463; /* Emerald */
+        }
+
+        /* Footer */
+        .w3-container .w3-padding-64 .w3-center .w3-container .w3-light-grey .w3-padding-32 .w3-round {
+        background-color: #ecf0f1; /* Light Grey */
+        }
+
+        .w3-container .w3-padding-64 .w3-center .w3-container .w3-light-grey .w3-padding-32 .w3-round img {
+        background-color: #28b463; /* Emerald */
+        }
+
+        .w3-sidebar .w3-panel i {
+        color: #145a32; /* Cambia esto al color verde fuerte que prefieras */
+        }
+
+        .w3-sidebar .w3-panel i:hover {
+        color: #f2f2f2; /* Cambia esto al color de resaltado que prefieras al pasar el mouse */
+        }
+        .w3-container h1 b {
+        color: #145a32; /* Cambia esto al color verde fuerte que prefieras */
+        }
+
+        /* Botones de abrir y cerrar menú en verde muy fuerte */
+        .w3-button {
+        color: #145a32; /* Cambia esto al color verde muy fuerte que prefieras */
+        }
+
+        .w3-button:hover {
+        color: #f2f2f2; /* Cambia esto al color de resaltado que prefieras al pasar el mouse */
+        }
+
+        /* Botón de cerrar menú en verde muy fuerte */
+        .w3-hide-large.w3-right.w3-jumbo.w3-padding {
+        color: #145a32; /* Cambia esto al color verde muy fuerte que prefieras */
+        }
+
+        .w3-hide-large.w3-right.w3-jumbo.w3-padding:hover {
+        color: #f2f2f2; /* Cambia esto al color de resaltado que prefieras al pasar el mouse */
+        }
+
+        /* Botón "ALL" con fondo verde oscuro */
+        .w3-sidebar a.w3-bar-item.w3-button.w3-padding.w3-text-teal {
+        background-color: #145a32 !important; /* Cambia esto al color verde oscuro que prefieras */
+        color: #ffffff !important; /* Cambia esto al color del texto que prefieras */
+        }
+
+        .w3-sidebar a.w3-bar-item.w3-button.w3-padding.w3-text-teal:hover {
+        background-color: #0e3b23 !important; /* Cambia esto al color de resaltado que prefieras al pasar el mouse */
+        }
+        /* Cambiar color de "Filter", "Design", "Photos" y "Art" */
+        .w3-section span,
+        .w3-section .w3-button.w3-black {
+        color: #145a32; /* Verde oscuro */
+        }
+
+        /* Cambiar color del icono de diamante y cámaras */
+        .w3-section .w3-button.w3-white i.fa-diamond,
+        .w3-section .w3-button.w3-white i.fa-photo,
+        .w3-section .w3-button.w3-white i.fa-map-pin {
+        color: #28b463; /* Verde fuerte */
+        }
+        /* Cambiar color de las barras de habilidades técnicas a verde esmeralda */
+        .w3-container .w3-grey .w3-container {
+        background-color: #029243 !important;
+        }
+
+        /* Cambiar fondo del recuadro PRO a verde claro */
+        .w3-third.w3-margin-bottom ul.w3-ul.w3-border.w3-white.w3-center.w3-opacity.w3-hover-opacity-off {
+        background-color: #c8e6c9;!important
+        }
+
+        /* Cambiar fondo de los botones de Sign Up a verde claro */
+        .w3-light-grey.w3-padding-24 button.w3-button.w3-teal.w3-padding-large.w3-hover-black {
+        background-color: #c8e6c9;
+        }
+            /* Cambiar color del texto del footer a verde fuerte y fondo a verde claro */
+            .w3-container.w3-padding-32.w3-dark-grey h3,
+            .w3-container.w3-padding-32.w3-dark-grey p,
+            .w3-container.w3-padding-32.w3-dark-grey a {
+            color: #145a32 !important; /* Verde fuerte */
+            }
+
+            .w3-container.w3-padding-32.w3-dark-grey {
+            background-color: #e7ffe8 !important; /* Verde claro */
+            }
+
