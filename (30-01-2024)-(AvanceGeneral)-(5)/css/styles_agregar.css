@@ -1,0 +1,53 @@
+body {
+    background-color:#edffed;
+}
+.form-container {
+    background-color: #e5ffe5;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #145a32;
+    width: 50%;
+    margin: 50px auto; /* Ajuste para centrar vertical y horizontalmente */
+    box-sizing: border-box;
+}
+label {
+    color:#145a32;
+    display: block;
+    margin-bottom: 5px;
+}
+input, textarea,button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background-color: #128f46;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #EA250A ;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+a {
+    color:#145a32;
+    text-decoration: none;
+}
+h4 {
+    color:#00341A  ; /* Color verde esmeralda para los títulos */
+    text-align: center; /* Centra el texto */
+
+}
